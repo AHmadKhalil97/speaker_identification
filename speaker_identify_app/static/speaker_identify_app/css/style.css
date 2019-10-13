@@ -1,0 +1,28 @@
+body {
+  padding: 30px;
+}
+
+.left {
+  width: 50%;
+  padding: 10px;
+  display:inline-block;
+  /*border: 3px solid #0275d8;*/
+  /*float: left;*/
+}
+.right {
+  width: 50%;
+  padding: 10px;
+  display: inline-block;
+  /*border: 3px solid #5cb85c;*/
+  /*float: right;*/
+}
+
+pre#log{
+  height:400px;
+  overflow:auto;
+  font-size:1.2em;
+  border: 3px solid #0275d8;
+}
+audio {
+  display:block;
+}
